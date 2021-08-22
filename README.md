@@ -6,6 +6,8 @@ Sobre mim:
 > Por conta da Engine, C# foi a primeira linguagem a qual tive contato. "Brinquei" bastante de fazer jogos e desde então venho aprendendo cada vez mais a programar e desenvolver softwares, como aplicações web, programas, jogos e mais.
 <hr>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqueks&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 Aqui no meu GitHub você irá achar os mais variados projetos, como algumas aplicações web, algoritmos, programas desktop e mais.   
 
 Linguagens principais: `C#`, `C`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
