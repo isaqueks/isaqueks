@@ -10,7 +10,8 @@ Sobre mim:
 
 Aqui no meu GitHub você irá achar os mais variados projetos, como algumas aplicações web, algoritmos, programas desktop e mais.   
 
-Linguagens principais: `C#`, `C`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
+Linguagens principais: `TypeScript 💙`, `JavaScript`, `C`, `PHP`, `HTML`, `CSS`  
+Stacks/Techs: `Node`, `MySQL`, `SQLite3`, `React`, `Express`, `WebPack`, `LAMP`
 ### Bem vindo ao meu GtiHub!
 
 <!--
