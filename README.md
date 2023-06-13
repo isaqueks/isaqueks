@@ -2,7 +2,7 @@
 
 Sobre mim:  
 
-> Tenho 18 anos. Estudo algumas linguagens de programação e desenvolvimento web, bem como algumas tecnologias.<br> Comecei aos 10 anos de idade me perguntando como os jogos eram feitos, quando tive contato com a Unity Engine 🎮🕹.
+> Tenho 19 anos. Estudo algumas linguagens de programação e desenvolvimento web, bem como algumas tecnologias.<br> Comecei aos 10 anos de idade me perguntando como os jogos eram feitos, quando tive contato com a Unity Engine 🎮🕹.
 > Por conta da Engine, C# foi a primeira linguagem a qual tive contato. "Brinquei" bastante de fazer jogos e desde então venho aprendendo cada vez mais a programar e desenvolver softwares, como aplicações web, programas, jogos e mais.
 <hr>
 
